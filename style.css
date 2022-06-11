@@ -227,6 +227,9 @@ main .details p.error {
     background-size: 100%;
     background-repeat: no-repeat;
   }
+  main .details h2 {
+    margin-top: 10rem;
+  }
   main .details > * {
     max-width: 445px;
     margin-left: 5vw;

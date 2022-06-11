@@ -255,6 +255,10 @@ main {
       background-size: 100%;
       background-repeat: no-repeat;
 
+      h2 {
+        margin-top: 10rem;
+      }
+
       &>* {
         max-width: 445px;
         margin-left: 5vw;
